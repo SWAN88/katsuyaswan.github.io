@@ -9,9 +9,52 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+# 📄 Peer-Reviewed Publications
 
-<!-- New style rendering if publication categories are defined -->
+1. **K. Shiratori**, et al.  
+   *Machine Learning to Adaptively Predict Gold Nanorod Sizes on Different Substrates*  
+   *J. Phys. Chem. C*, 2025. [Link](https://pubs.acs.org/doi/10.1021/acs.jpcc.5c00244)
+
+2. **K. Shiratori**, et al.  
+   *Machine-Learned Decision Trees for Predicting Gold Nanorod Sizes from Spectra*  
+   *J. Phys. Chem. C*, 2021. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c03937)
+
+3. Lin, J., **K. Shiratori**, et al.  
+   *Competition between Hot Carriers and Surface Electrochemistry in Gold Nanorod Dissolution*  
+   *(Accepted)*
+
+4. Kim, J.-H., **K. Shiratori**, et al.  
+   *Suppressed Interparticle Coupling in Plasmonic Meta-Atoms with Intraparticle Hot Spots*  
+   *(In Preparation)*
+
+5. Yuan, T., **K. Shiratori**, et al.  
+   *Untangling Energy Dependent Radiation Damping and Chemical Interface Damping in Gold Nanorods*  
+   *(In Preparation)*
+
+---
+
+# 🎤 Conference Presentations
+
+## Oral Presentations
+
+- *Machine-learned decision trees predicting AuNR dimensions from spectra alone*  
+  - AIChE Spring Meeting & 17th Global Congress on Process Safety (Online), April 2021  
+  - 14th Annual Virtual Oil & Gas HPC Conference (Online), March 2021
+
+## Poster Presentations
+
+- *Machine-learned decision trees predicting AuNR dimensions*  
+  - ACS Fall 2022, San Diego, CA
+
+- *The interaction of gold nanostructure with different laser polarizations in COMSOL simulation*  
+  - Joint Rice Center for Quantum Engineering–Nakatani RIES Fellowship Poster Session, Houston, TX, September 2018
+
+- *Polarization-angle-resolved Raman spectroscopy on Pb(Zn1/3Nb2/3)O3–8%PbTiO3 under external electric field*  
+  - 12th Japan-Korea Conference on Ferroelectrics, Nara, Japan, August 2018
+
+<!-- {% include base_path %} -->
+
+<!-- New style rendering if publication categories are defined
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -30,7 +73,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %} -->
 
 
 

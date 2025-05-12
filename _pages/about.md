@@ -7,16 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-🎓 **Ph.D. in Physics**, University of Illinois Urbana-Champaign  
-🧪 **Specialization**: Plasmonic nanostructures, FDTD simulations, and Machine Learning  
-📍 Based in Champaign, IL  
-📧 [katsuya2@illinois.edu](mailto:katsuya2@illinois.edu) | [GitHub](https://github.com/SWAN88) | [LinkedIn](https://www.linkedin.com/in/katsuya-shiratori/) | [Portfolio](https://katsuyaswan.jp)
-
----
-
 ## 🧠 Research Interests
 
 My research focuses on understanding the interaction between light and plasmonic nanostructures at the single-particle level. I use a combination of electromagnetic simulations (FDTD) and machine learning models built on morphological data from electron microscopy. I am increasingly interested in leveraging AI for Science, quantum materials, and the integration of physics-based and data-driven models to accelerate scientific discovery.
+
+---
+
+## 🎓 Education
+
+**University of Illinois Urbana-Champaign**, Urbana, IL  
+*Ph.D. in Physics with Computational Science and Engineering Concentration*, May 2025  
+**GPA**: 4.0/4.0  
+**Thesis**: “Computational Approaches to Understanding Structure–Property Relationship in Single Plasmonic Nanoparticles”  
+**Relevant Coursework**: Statistical Learning, Numerical Methods for PDEs, Computational Electromagnetics
+
+---
+
+**Rice University**, Houston, TX  
+*M.Sc. in Applied Physics*, April 2022  
+**GPA**: 3.9/4.0  
+**Thesis**: “Gold Nanorod Size Prediction from Spectra Assisted by Machine Learning”  
+**Relevant Coursework**: Statistical Thermodynamics, Nano-Optics, Quantum Chemistry
+
+---
+
+**Ritsumeikan University**, Kusatsu, Shiga, Japan  
+*B.Sc. in Physics*, March 2019  
+**GPA**: 3.3/4.0  
+**Thesis**: “Polarization-Angle-Resolved Raman Spectroscopy on Pb(Zn₁/₃Nb₂/₃)O₃–8%PbTiO₃ under External Electric Field”  
+**Relevant Coursework**: Quantum Mechanics, Solid State Physics, Electromagnetism
 
 ---
 
