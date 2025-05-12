@@ -13,9 +13,9 @@ title                    : "Katsuya Shiratori, Ph.D."
 title_separator          : "-"
 name                     : &name "Katsuya Shiratori"
 description              : &description "Ph.D. in Physics | Nanophotonics & Machine Learning"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://swan88.github.io/katsuyaswan.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "SWAN88/katsuyaswan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -47,7 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "SWAN88"
-  kaggle           : # Username  
+  kaggle           : katsuyashiratori 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -58,9 +58,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : https://www.instagram.com/sher_bird/
+  instagram        : sher_bird
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/katsuya-shiratori/
+  linkedin         : katsuya-shiratori
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : katsyua_swan
+  twitter          : katsuya_swan
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -248,16 +248,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _publications
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  _publications
   - scope:
       path: ""
       type: publications
@@ -275,14 +275,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
