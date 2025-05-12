@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 ## 🧠 Research Interests
+======
 
 My research focuses on understanding the interaction between light and plasmonic nanostructures at the single-particle level. I use a combination of electromagnetic simulations (FDTD) and machine learning models built on morphological data from electron microscopy. I am increasingly interested in leveraging AI for Science, quantum materials, and the integration of physics-based and data-driven models to accelerate scientific discovery.
-
----
 
 ## 🎓 Education
 
@@ -21,23 +20,17 @@ My research focuses on understanding the interaction between light and plasmonic
 **Thesis**: “Computational Approaches to Understanding Structure–Property Relationship in Single Plasmonic Nanoparticles”  
 **Relevant Coursework**: Statistical Learning, Numerical Methods for PDEs, Computational Electromagnetics
 
----
-
 **Rice University**, Houston, TX  
 *M.Sc. in Applied Physics*, April 2022  
 **GPA**: 3.9/4.0  
 **Thesis**: “Gold Nanorod Size Prediction from Spectra Assisted by Machine Learning”  
 **Relevant Coursework**: Statistical Thermodynamics, Nano-Optics, Quantum Chemistry
 
----
-
 **Ritsumeikan University**, Kusatsu, Shiga, Japan  
 *B.Sc. in Physics*, March 2019  
 **GPA**: 3.3/4.0  
 **Thesis**: “Polarization-Angle-Resolved Raman Spectroscopy on Pb(Zn₁/₃Nb₂/₃)O₃–8%PbTiO₃ under External Electric Field”  
 **Relevant Coursework**: Quantum Mechanics, Solid State Physics, Electromagnetism
-
----
 
 ## 🔬 Research Experience
 
@@ -55,8 +48,6 @@ My research focuses on understanding the interaction between light and plasmonic
 - Conducted polarization-resolved Raman spectroscopy  
 - Developed methods for electrode attachment and measurement reproducibility
 
----
-
 ## 🏆 Awards and Fellowships
 
 - Applied Physics Graduate Student Travel Award (2022)  
@@ -65,8 +56,6 @@ My research focuses on understanding the interaction between light and plasmonic
 - Most Innovative Presentation, JK Ferroelectrics Conference (2018)  
 - NAKATANI Research Fellowship (2018)
 
----
-
 ## 🧰 Technical Skills
 
 **Programming & ML**: Python, MATLAB, scikit-learn, PyTorch, JAX, TensorFlow, SQL, Git  
@@ -74,8 +63,6 @@ My research focuses on understanding the interaction between light and plasmonic
 **Characterization**: Dark-field spectroscopy, SEM/TEM, Raman, ellipsometry  
 **Tools**: Streamlit, Docker, AWS, Bash, Blender  
 **Communication**: Grant writing, peer-reviewed publishing, international presentations
-
----
 
 ## 🌏 International Experience & Leadership
 

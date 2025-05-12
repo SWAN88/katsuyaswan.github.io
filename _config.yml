@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # USername
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +62,7 @@ author:
   lastfm           : # Username
   linkedin         : katsuya-shiratori
   mastodon         : # URL
-  medium           : # URL
+  medium           : katsuya2
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
