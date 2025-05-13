@@ -9,7 +9,7 @@ redirect_from:
 
 ## 🧠 Research Interests
 
-My research focuses on understanding the interaction between light and plasmonic nanostructures at the single-particle level. I use a combination of electromagnetic simulations (FDTD) and machine learning models built on morphological data from electron microscopy. I am increasingly interested in leveraging AI for Science, quantum materials, and the integration of physics-based and data-driven models to accelerate scientific discovery.
+My research focuses on understanding the interaction between light and plasmonic nanostructures at the single-particle level. I use a combination of electromagnetic simulations and machine learning models built on morphological data from electron microscopy. I am increasingly interested in leveraging AI for Science, quantum materials, and the integration of physics-based and data-driven models to accelerate scientific discovery.
 
 ## 🎓 Education
 
@@ -69,11 +69,3 @@ My research focuses on understanding the interaction between light and plasmonic
 - Founder & President of Japanese GSA at Rice University (2021–2023)  
 - Overseas training in Vietnam, Kenya, and India through JICA/JETRO programs  
 - Volunteer interpreter at Otakon / Anime Central (2022–present)
-
-<!-- 
-EDUCATION
-======
-
-
-RESEARCH EXPERIENCE
-====== -->
