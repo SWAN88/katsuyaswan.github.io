@@ -19,9 +19,12 @@ main:
     
   - title: "Projects"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+  - title: "Races"
+    url: /marathons/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/

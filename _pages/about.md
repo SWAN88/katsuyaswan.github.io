@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ## 🧠 Research Interests
-======
 
 My research focuses on understanding the interaction between light and plasmonic nanostructures at the single-particle level. I use a combination of electromagnetic simulations (FDTD) and machine learning models built on morphological data from electron microscopy. I am increasingly interested in leveraging AI for Science, quantum materials, and the integration of physics-based and data-driven models to accelerate scientific discovery.
 
