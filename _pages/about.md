@@ -33,6 +33,11 @@ My research focuses on understanding the interaction between light and plasmonic
 
 ## 🔬 Research Experience
 
+**U.S. Operations Lead**, Calmarion Inc. 
+(2025–Present)  
+- Integrated an inverse analysis algorithm into hydrological models to enable faster and more accurate flood prediction
+- Leading U.S. operations to establish pilot projects with civil engineering firms and research institutions   
+
 **Graduate Research Assistant**, University of Illinois Urbana-Champaign (2024–2025)  
 - Executed high-throughput FDTD simulations for various nanostructures  
 - Optimized simulation pipelines using Slurm and SGE  
@@ -46,21 +51,22 @@ My research focuses on understanding the interaction between light and plasmonic
 **Undergraduate Research Assistant**, Ritsumeikan University (2015–2019)  
 - Conducted polarization-resolved Raman spectroscopy  
 - Developed methods for electrode attachment and measurement reproducibility
+- Served as a teaching assistant for undergraduate physics experiments
 
 ## 🏆 Awards and Fellowships
 
 - Applied Physics Graduate Student Travel Award (2022)  
 - Applied Physics Graduate Fellowship (2019)  
 - Best Senior Thesis Presentation, Ritsumeikan University (2019)  
-- Most Innovative Presentation, JK Ferroelectrics Conference (2018)  
+- Most Innovative Presentation, Japan-Korea Ferroelectrics Conference (2018)  
 - NAKATANI Research Fellowship (2018)
 
 ## 🧰 Technical Skills
 
-**Programming & ML**: Python, MATLAB, scikit-learn, PyTorch, JAX, TensorFlow, SQL, Git  
-**Simulations**: Ansys Lumerical FDTD, COMSOL, Slurm/SGE cluster automation  
-**Characterization**: Dark-field spectroscopy, SEM/TEM, Raman, ellipsometry  
-**Tools**: Streamlit, Docker, AWS, Bash, Blender  
+**Programming & ML**: Fortran, Python, MATLAB, Scikit-learn, PyTorch, JAX, TensorFlow, SQL 
+**Simulations**: Ansys Lumerical FDTD, COMSOL, Calculix FEM, Flexcompute, Slurm/SGE cluster automation
+**Characterization**: Dark-field spectroscopy, SEM/FIB, Raman, ellipsometry  
+**Tools**: Streamlit, Git, Docker, AWS, Google Colab, Bash, Blender, FreeCAD  
 **Communication**: Grant writing, peer-reviewed publishing, international presentations
 
 ## 🌏 International Experience & Leadership
